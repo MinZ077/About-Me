@@ -1,0 +1,33 @@
+h4{
+    color:#355A6D;
+    margin: 35px;
+    
+}
+
+h6{
+    color:#355A6D;
+    margin: 15px;
+    
+}
+
+h3{
+    color:#355A6D;
+    margin: 70px;
+    
+}
+
+/* class*/
+.outer-box{
+    border-style: inset;
+    border-radius: 25px;
+    margin: 170px;
+    background:#DDBFF0;
+}
+
+
+.inner-box{
+    border-style: dotted;
+    border-radius: 35px;
+    background:white;
+    margin: 70px;
+}
