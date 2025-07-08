@@ -1,3 +1,5 @@
+
+
 h4{
     color:#355A6D;
     margin: 35px;
@@ -19,21 +21,20 @@ h3{
 /* class*/
 .outer-box{
     border-style: inset;
-    border-radius: 25px;
+   border-radius: 25px;
     margin: 170px;
     background:#DDBFF0;
 }
 
 
 .inner-box{
-    border-style: dotted;
-    border-radius: 35px;
+    border-style: none;
     background:white;
     margin: 70px;
 }
 
 
 .accordion-button{
-     background:red;
-     border-radius: 500px;
+     background:rgb(171, 164, 164);
+     
 }
