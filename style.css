@@ -1,5 +1,5 @@
 
-
+/*
 h4{
     color:#355A6D;
     margin: 35px;
@@ -17,8 +17,17 @@ h3{
     margin: 70px;
     
 }
+*/
+
 
 /* class*/
+
+.home_img{
+    border-radius: 60px;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
 .outer-box{
     border-style: inset;
    border-radius: 25px;
@@ -33,8 +42,31 @@ h3{
     margin: 70px;
 }
 
+.bio{
+     margin-top: 150px;
+     margin-bottom: 150px;
+}
+
+.project{
+    background-color:rgb(72, 72, 97);
+    margin-top: 120px;
+}
 
 .accordion-button{
      background:rgb(171, 164, 164);
      
 }
+
+.card_img{
+    height: 200px;
+
+}
+
+h5{
+    font-family: "Bitcount Grid Double", system-ui;
+}
+
+h3{
+    font-family: "Tektur", sans-serif;
+}
+
